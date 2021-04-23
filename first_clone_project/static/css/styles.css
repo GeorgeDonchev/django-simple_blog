@@ -1,0 +1,29 @@
+.techfont{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.centerstage{
+    margin: auto 0 ;
+}
+
+.postdate{
+    text-align: center;
+}
+
+.posttitle{
+    font-family: 'Lato', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+.postcontent{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+}
+
+.btn-comment{
+    position: absolute;
+    right: 0px;
+}
